@@ -3,9 +3,9 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3DA37A&height=180&section=header&text=Krishna%20Kumar%20Gupta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36" width="100%"/>
-</p>
 
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
+  <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
+</p>
 
 <p align="center">
   <a href="https://github.com/krrishnagupta">
