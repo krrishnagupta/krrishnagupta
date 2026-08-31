@@ -96,11 +96,11 @@ I enjoy combining modern web technologies with AI and machine learning to turn i
 ### 💻 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js" />
+  <img src="https://skillicons.dev/icons?i=python,js,java" />
 </p>
 
 <p align="center">
-  <b>Python</b> • <b>JavaScript</b>
+  <b>Python </b> • <b> JavaScript </b> • <b> Java </b>
 </p>
 
 ---
@@ -108,11 +108,11 @@ I enjoy combining modern web technologies with AI and machine learning to turn i
 ### 🎨 Frontend Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,redux,nextjs,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,redux,bootstrap,tailwind" />
 </p>
 
 <p align="center">
-  <b>HTML5</b> • <b>CSS3</b> • <b>React.js</b> • <b>Redux</b> • <b>Next.js</b> • <b>Bootstrap</b> • <b>Tailwind CSS</b>
+  <b>HTML5 </b> • <b>CSS3 </b> • <b>React.js </b> • <b>Redux </b> • <b>Bootstrap </b> • <b>Tailwind CSS </b>
 </p>
 
 ---
@@ -120,11 +120,11 @@ I enjoy combining modern web technologies with AI and machine learning to turn i
 ### ⚙️ Backend Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 <p align="center">
-  <b>Node.js</b> • <b>Express.js</b> • <b>Flask</b>
+  <b>Node.js </b> • <b> Express.js</b>
 </p>
 
 ---
@@ -136,7 +136,7 @@ I enjoy combining modern web technologies with AI and machine learning to turn i
 </p>
 
 <p align="center">
-  <b>MongoDB</b> • <b>MySQL</b>
+  <b>MongoDB </b> • <b> MySQL</b>
 </p>
 
 ---
@@ -145,13 +145,12 @@ I enjoy combining modern web technologies with AI and machine learning to turn i
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
 <p align="center">
-  <b>Machine Learning</b> • <b>Keras</b> • <b>NLTK</b> • <b>Google Gemini</b>
+  <b>Machine Learning </b> • <b>NLTK </b> • <b> Google Gemini</b>
 </p>
 
 ---
@@ -184,6 +183,7 @@ I enjoy combining modern web technologies with AI and machine learning to turn i
 </p>
 
 ---
+
 
 <!-- ===================== PROJECTS ===================== -->
 
@@ -345,32 +345,6 @@ I enjoy combining modern web technologies with AI and machine learning to turn i
 
 ---
 
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krrishnagupta&theme=tokyo-night&hide_border=true&area=true&radius=10" width="95%"/>
-</p>
-
----
-
-<!-- ===================== GITHUB REPOSITORIES ===================== -->
-
-# 📂 Some More Projects
-
-<p align="center">
-
-<a href="https://github.com/krrishnagupta/MERN_repo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=krrishnagupta&repo=MERN_repo&theme=tokyonight&hide_border=true&border_radius=10"/>
-</a>
-
-<a href="https://github.com/krrishnagupta/React_repo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=krrishnagupta&repo=React_repo&theme=tokyonight&hide_border=true&border_radius=10"/>
-</a>
-
-</p>
-
----
-
 # 🧠 Development Mindset
 
 ```text
@@ -378,68 +352,6 @@ Learn → Build → Break → Debug → Improve → Repeat
 ````
 
 > 💡 I believe the best way to learn technology is to build with it.
-
----
-
-# 💻 A Little More About Me
-
-```javascript
-const krishna = {
-    name: "Krishna Kumar Gupta",
-    role: "AI-Focused Web Developer",
-
-    interests: [
-        "Full Stack Development",
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Modern Web Architecture"
-    ],
-
-    frontend: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "React",
-        "Redux",
-        "Next.js",
-        "Bootstrap",
-        "Tailwind CSS"
-    ],
-
-    backend: [
-        "Node.js",
-        "Express.js",
-        "Flask"
-    ],
-
-    databases: [
-        "MongoDB",
-        "MySQL"
-    ],
-
-    ai_ml: [
-        "Keras",
-        "NLTK",
-        "Google Gemini"
-    ],
-
-    tools: [
-        "Git",
-        "GitHub",
-        "Postman",
-        "VS Code",
-        "AWS"
-    ],
-
-    currentlyLearning: [
-        "MERN",
-        "Generative AI",
-        "Modern Web Architecture"
-    ],
-
-    portfolio: "https://krishna-kumar-gupta.vercel.app/"
-};
-```
 
 ---
 
