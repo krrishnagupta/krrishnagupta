@@ -1,172 +1,459 @@
-<a href="https://github.com/krrishnagupta">   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/> </a>
+````md
+<!-- ===================== HEADER ===================== -->
 
-# 👨🏻‍💻 Hi, I'm Krishna Kumar Gupta! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3DA37A&height=180&section=header&text=Krishna%20Kumar%20Gupta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36" width="100%"/>
+</p>
 
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
+<p align="center">
+  <a href="https://github.com/krrishnagupta">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3DA37A&center=true&vCenter=true&width=750&lines=AI-Focused+Web+Developer;Full+Stack+Developer;React.js+Developer;Building+Intelligent+Web+Applications;Always+Learning+%7C+Always+Building" alt="Typing SVG"/>
+  </a>
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=500&height=45&lines=AI-Focused+Web+Developer;Full+Stack+Developer;React.js+Developer;Building+Intelligent+Web+Apps;Always+Learning+%26+Building">
+<p align="center">
+  <a href="https://github.com/krrishnagupta">
+    <img src="https://img.shields.io/badge/GitHub-krrishnagupta-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://krishna-kumar-gupta.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-3DA37A?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/krishna-kumar-gupta-239a0a257">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-**`AI-Focused Web Developer | Full Stack Developer`**
-
-I'm Krishna Kumar Gupta, a Web Developer passionate about building modern, scalable, and intelligent web applications. I enjoy working with React.js, Node.js, and modern web technologies while exploring the integration of AI and machine learning into real-world applications.
-
-I've worked on AI-powered video generation platforms, real-time communication applications, and machine-learning-based chatbots. I’m continuously improving my skills by building projects, exploring new technologies, and turning ideas into working products.
-
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-
-<p align="left">   <img src="https://komarev.com/ghpvc/?username=krrishnagupta&label=Profile%20views&color=0e75b6&style=flat" alt="Krishna Kumar Gupta" /> </p>
-
-<p align="left">   <a href="https://github.com/krrishnagupta?tab=followers">     <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/krrishnagupta?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>   </a>   <a href="https://github.com/krrishnagupta?tab=repositories&sort=stargazers">     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/krrishnagupta?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>   </a> </p>
-
-* 🔭 Currently building **AI-powered and full-stack web applications**
-* 🌱 Currently learning **MERN, AI integration, and modern web architecture**
-* 💻 Ask me about **React.js, JavaScript, Python, Node.js, REST APIs**
-* 🤖 Interested in **Generative AI, Machine Learning, and intelligent applications**
-* 🚀 Check out my [**Portfolio**](https://krishna-kumar-gupta.vercel.app/)
-* 📫 Reach me at [**krrishnakumargupta@gmail.com**](mailto:krrishnakumargupta@gmail.com)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=krrishnagupta&style=for-the-badge&color=3DA37A&label=PROFILE+VIEWS"/>
+  <a href="https://github.com/krrishnagupta?tab=followers">
+    <img src="https://img.shields.io/github/followers/krrishnagupta?style=for-the-badge&label=Followers&color=3DA37A"/>
+  </a>
+</p>
 
 ---
 
-## 🌐 Connect with me
+<!-- ===================== ABOUT ME ===================== -->
 
-<p align="left">   <a href="https://github.com/krrishnagupta" target="_blank">     <img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="35" width="35" />   </a>   <a href="https://www.linkedin.com/in/krishna-kumar-gupta-239a0a257" target="_blank">     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />   </a>   <a href="https://krishna-kumar-gupta.vercel.app/" target="_blank">     <img align="center" src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="Portfolio" height="30" width="30" />   </a> </p>
+## 👨‍💻 About Me
+
+<img align="right" width="350" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+
+I'm **Krishna Kumar Gupta**, an **AI-Focused Web Developer** passionate about building modern, scalable, and intelligent web applications.
+
+I enjoy combining modern web technologies with AI and machine learning to turn ideas into practical products.
+
+### 🚀 What I Work On
+
+- ⚛️ Modern frontend applications using **React.js & Next.js**
+- 🌐 Full-stack applications with **Node.js & Express.js**
+- 🤖 AI & Machine Learning-powered applications
+- 🗄️ Data-driven applications using **MongoDB & MySQL**
+- 🔌 REST APIs and backend integrations
+- ☁️ Cloud-based and serverless application architectures
+
+### 🎯 What I'm Currently Doing
+
+- 🔭 Building **AI-powered and full-stack applications**
+- 🌱 Learning **MERN & modern web architecture**
+- 🧠 Exploring **Generative AI & Machine Learning**
+- ⚡ Improving my **problem-solving and development skills**
+- 💡 Turning ideas into real-world projects
+
+<br clear="right"/>
 
 ---
 
-## 🧰 Languages and Tools
+<!-- ===================== CONNECT ===================== -->
 
-### 👨‍💻 Programming Languages
+## 🌐 Connect With Me
 
-\
+<p align="center">
+
+<a href="https://github.com/krrishnagupta">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/krishna-kumar-gupta-239a0a257">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://krishna-kumar-gupta.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-3DA37A?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:krrishnakumargupta@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+
+# 🧰 Languages & Technologies
+
+### 💻 Programming Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js" />
+</p>
+
+<p align="center">
+  <b>Python</b> • <b>JavaScript</b>
+</p>
+
+---
 
 ### 🎨 Frontend Development
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,redux,nextjs,bootstrap,tailwind" />
+</p>
 
+<p align="center">
+  <b>HTML5</b> • <b>CSS3</b> • <b>React.js</b> • <b>Redux</b> • <b>Next.js</b> • <b>Bootstrap</b> • <b>Tailwind CSS</b>
+</p>
 
-
-
-
-\
+---
 
 ### ⚙️ Backend Development
 
-\
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+</p>
+
+<p align="center">
+  <b>Node.js</b> • <b>Express.js</b> • <b>Flask</b>
+</p>
+
+---
 
 ### 🗄️ Databases
 
-\
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
-### 🛠️ Tools & Technologies
-
-
-
-
-\
-
----
-
-## 🚀 Featured Projects
-
-### 🎬 VIGEN — AI-Powered Video Generation Engine
-
-An end-to-end AI video generation and scheduling platform built with **Next.js, Supabase, Google Gemini, Clerk, AWS Lambda, and Inngest**.
-
-* 🤖 Generates scripts using **Google Gemini**
-* 🎙️ Generates audio using **Fonada Labs / Deepgram**
-* 🖼️ Generates images using **ByteDance / Replicate**
-* ☁️ Stores assets using **Supabase**
-* 🎥 Uses **Remotion + AWS Lambda** for programmatic video rendering
-* 🔐 Integrated **Clerk authentication and MFA**
-* ⚡ Uses **Inngest** for background job scheduling and concurrent processing
-
-🔗 [View Project](https://github.com/krrishnagupta/VIGEN---Video-Generation-Engine)
+<p align="center">
+  <b>MongoDB</b> • <b>MySQL</b>
+</p>
 
 ---
 
-### 💬 Chatify — Real-Time Chat Application
+### 🤖 AI & Machine Learning
 
-A full-stack real-time messaging application built using **React, Node.js, MongoDB, Socket.io, Resend, and Tailwind CSS**.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
 
-* 🔐 JWT authentication
-* ⚡ Real-time communication using **Socket.io**
-* 🛡️ API rate limiting
-* ☁️ Cloudinary image uploads
-* 📧 Automated emails using **Resend**
-* 🧠 Global state management with **Zustand**
-* 📱 Responsive UI using **Tailwind CSS & DaisyUI**
-
-🔗 [View Project](https://github.com/krrishnagupta/Chatify---Chat-App)
-
----
-
-### 🤖 Psychiatrist Bot — AI Mental Health Chatbot
-
-An AI-driven chatbot developed using **Python, Flask, Keras, NLTK, JavaScript, HTML, and CSS**.
-
-* 🧠 Trained a neural network to understand user inputs
-* 🔤 Prepared and tokenized text training data
-* 🤖 Implemented the complete machine-learning workflow
-* 🔗 Connected the trained model with a Flask backend
-* 💬 Enabled real-time chatbot interactions through a web interface
-
-🔗 [View Project](https://github.com/krrishnagupta/Pshychatrist-Bot)
+<p align="center">
+  <b>Machine Learning</b> • <b>Keras</b> • <b>NLTK</b> • <b>Google Gemini</b>
+</p>
 
 ---
 
-## 💼 Experience
+### ☁️ Cloud & Modern Technologies
 
-**Web Development Intern — Priority Technologies Inc.**
-`Mar 2024 – Aug 2024`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,supabase" />
+</p>
 
-* Engineered responsive React components and landing pages
-* Improved cross-device UI consistency
-* Optimized React rendering and state management
-* Reduced redundant component updates and improved page load performance
-
-**Python Developer Intern — P&P Infotech Pvt. Ltd.**
-`May 2023 – Jun 2023`
-
-* Developed and tested Flask-based REST APIs
-* Worked on backend routing and data flow
-* Assisted with debugging backend modules
-* Improved API response handling and reliability
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Inngest-000000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Remotion-000000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white"/>
+</p>
 
 ---
 
-## 🎓 Education
+### 🛠️ Tools & Development
 
-**B.Tech — Computer Science Engineering (AI & ML)**
-IPS Academy, Indore · `2021 – 2025`
-**75.1%**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
 
-**Senior Secondary (12th Grade)**
-The Creative Public Hr. Sec. School, CBSE · `73%`
-
-**Secondary (10th Grade)**
-The Creative Public Hr. Sec. School, CBSE · `70%`
-
----
-
-## 📜 Certifications
-
-* 🏆 **AI Impact Summit Buildathon — GUVI × HCL** · 2026
-* 📊 **TATA GenAI Powered Data Analytics Simulation — Forage** · 2026
-* 🚀 **McKinsey Forward Program — McKinsey.org** · 2025
-* ☁️ **AWS Cloud Foundation Certificate — Amazon Web Services** · 2024
+<p align="center">
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+<!-- ===================== PROJECTS ===================== -->
 
-<p align="center">   <a href="https://github.com/krrishnagupta/github-readme-stats">     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krrishnagupta&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" />   </a>   <a href="https://github.com/krrishnagupta/github-readme-stats">     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krrishnagupta&layout=compact&theme=tokyonight&hide_border=true" />   </a> </p>
+# 🚀 Featured Projects
 
-<div align="center">   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krrishnagupta&theme=tokyonight" />   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=krrishnagupta&utcOffset=+5.5&theme=tokyonight" /> </div>
+## 🎬 VIGEN — AI-Powered Video Generation Engine
 
-<br>
+> An end-to-end AI video generation and scheduling platform.
 
-<div align="center">   <img src="https://github-readme-activity-graph.vercel.app/graph?username=krrishnagupta&theme=tokyo-night&hide_border=true" /> </div>
+<p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white"/>
+<img src="https://img.shields.io/badge/Inngest-000000?style=flat-square"/>
+</p>
 
-<br>
+- 🤖 Generates scripts using **Google Gemini**
+- 🎙️ Generates audio using **Fonada Labs / Deepgram**
+- 🖼️ Generates images using **ByteDance / Replicate**
+- ☁️ Stores assets using **Supabase**
+- 🎥 Renders videos programmatically using **Remotion + AWS Lambda**
+- 🔐 Authentication and MFA using **Clerk**
+- ⚡ Handles background processing using **Inngest**
 
-<p align="center">   <img src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=100&section=footer"/> </p>
+<p>
+  <a href="https://github.com/krrishnagupta/VIGEN---Video-Generation-Engine">
+    <img src="https://img.shields.io/badge/🔗%20View%20Project-3DA37A?style=for-the-badge"/>
+  </a>
+</p>
 
+---
+
+## 💬 Chatify — Real-Time Chat Application
+
+> Full-stack real-time messaging platform.
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+</p>
+
+- 🔐 JWT authentication
+- ⚡ Real-time communication using **Socket.io**
+- 🛡️ API rate limiting
+- ☁️ Cloudinary image uploads
+- 📧 Automated signup emails using **Resend**
+- 🧠 Global state management using **Zustand**
+- 📱 Responsive UI using **Tailwind CSS & DaisyUI**
+
+<p>
+  <a href="https://github.com/krrishnagupta/Chatify---Chat-App">
+    <img src="https://img.shields.io/badge/🔗%20View%20Project-3DA37A?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+## 🤖 Psychiatrist Bot — AI Chatbot
+
+> Machine-learning based chatbot with a responsive web interface.
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLTK-154F5B?style=flat-square"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+
+- 🧠 Trained a neural network to understand user inputs
+- 🔤 Prepared and tokenized text training data
+- 🤖 Implemented the machine-learning workflow
+- 🔗 Connected the trained model with a Flask backend
+- 💬 Enabled real-time chatbot conversations
+
+<p>
+  <a href="https://github.com/krrishnagupta/Pshychatrist-Bot">
+    <img src="https://img.shields.io/badge/🔗%20View%20Project-3DA37A?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+<!-- ===================== EXPERIENCE ===================== -->
+
+# 💼 Experience
+
+### 🧑‍💻 Web Development Intern
+**Priority Technologies Inc. — Remote**  
+`March 2024 – August 2024`
+
+- ⚛️ Engineered responsive **React components and landing pages**
+- 📱 Improved cross-device UI consistency
+- ⚡ Optimized React rendering cycles and state management
+- 🚀 Reduced redundant component updates
+- 📈 Improved initial page-load performance
+
+### 🐍 Python Developer Intern
+**P&P Infotech Pvt. Ltd. — Indore, India**  
+`May 2023 – June 2023`
+
+- 🧩 Developed and tested **Flask-based REST APIs**
+- 🔄 Worked on backend routing and data flow
+- 🐛 Assisted in debugging backend modules
+- ⚡ Improved API response handling and reliability
+
+---
+
+<!-- ===================== EDUCATION ===================== -->
+
+# 🎓 Education
+
+### B.Tech — Computer Science Engineering (AI & ML)
+
+**IPS Academy, Indore**  
+`2021 – 2025` | **75.1%**
+
+### Senior Secondary — 12th Grade
+
+**The Creative Public Hr. Sec. School — CBSE**  
+**73%**
+
+### Secondary — 10th Grade
+
+**The Creative Public Hr. Sec. School — CBSE**  
+**70%**
+
+---
+
+<!-- ===================== CERTIFICATIONS ===================== -->
+
+# 📜 Certifications
+
+| Certification | Organization | Year |
+|---|---|---:|
+| 🏆 AI Impact Summit Buildathon | GUVI × HCL | 2026 |
+| 📊 TATA GenAI Powered Data Analytics Simulation | Forage | 2026 |
+| 🚀 McKinsey Forward Program | McKinsey.org | 2025 |
+| ☁️ AWS Cloud Foundation Certificate | Amazon Web Services | 2024 |
+
+---
+
+<!-- ===================== GITHUB STATS ===================== -->
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=krrishnagupta&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krrishnagupta&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=krrishnagupta&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krrishnagupta&theme=tokyo-night&hide_border=true&area=true&radius=10" width="95%"/>
+</p>
+
+---
+
+<!-- ===================== GITHUB REPOSITORIES ===================== -->
+
+# 📂 Some More Projects
+
+<p align="center">
+
+<a href="https://github.com/krrishnagupta/MERN_repo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=krrishnagupta&repo=MERN_repo&theme=tokyonight&hide_border=true&border_radius=10"/>
+</a>
+
+<a href="https://github.com/krrishnagupta/React_repo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=krrishnagupta&repo=React_repo&theme=tokyonight&hide_border=true&border_radius=10"/>
+</a>
+
+</p>
+
+---
+
+# 🧠 Development Mindset
+
+```text
+Learn → Build → Break → Debug → Improve → Repeat
+````
+
+> 💡 I believe the best way to learn technology is to build with it.
+
+---
+
+# 💻 A Little More About Me
+
+```javascript
+const krishna = {
+    name: "Krishna Kumar Gupta",
+    role: "AI-Focused Web Developer",
+
+    interests: [
+        "Full Stack Development",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Modern Web Architecture"
+    ],
+
+    frontend: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Redux",
+        "Next.js",
+        "Bootstrap",
+        "Tailwind CSS"
+    ],
+
+    backend: [
+        "Node.js",
+        "Express.js",
+        "Flask"
+    ],
+
+    databases: [
+        "MongoDB",
+        "MySQL"
+    ],
+
+    ai_ml: [
+        "Keras",
+        "NLTK",
+        "Google Gemini"
+    ],
+
+    tools: [
+        "Git",
+        "GitHub",
+        "Postman",
+        "VS Code",
+        "AWS"
+    ],
+
+    currentlyLearning: [
+        "MERN",
+        "Generative AI",
+        "Modern Web Architecture"
+    ],
+
+    portfolio: "https://krishna-kumar-gupta.vercel.app/"
+};
+```
+
+---
+
+<p align="center">
+  <i>✨ Building. Learning. Improving. One project at a time. ✨</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/krrishnagupta">
+    <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-3DA37A?style=for-the-badge"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3DA37A&height=120&section=footer" width="100%"/>
+</p>
+```
